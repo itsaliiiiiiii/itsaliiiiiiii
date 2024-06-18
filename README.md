@@ -8,9 +8,11 @@ I'm Ali Harit, a second-year Computer Engineering student at the National School
   - Lycée Bir Anzaran, Physics and Chemistry Baccalaureate (2017-2020)
   - ENSA Khouribga, Integrated Preparatory Years (2020-2023)
   - ENSA Khouribga, Engineering Cycle in Computer Engineering (2023-2026)
+
+- **Portfolio:** [itsali.me/Portfolio](https://itsali.me/Portfolio)
 - **Contact:**
   - [LinkedIn](https://www.linkedin.com/in/aliharit)
-  - **Portfolio:** [itsali.me/Portfolio](https://itsali.me/Portfolio)
+
 
 ## 🛠️ Skills
 
