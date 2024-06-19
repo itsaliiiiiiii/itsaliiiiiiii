@@ -13,7 +13,7 @@ I'm Ali Harit, a second-year Computer Engineering student at the National School
 
 - **Portfolio:** <a href="https://itsali.me/Portfolio"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20itsali.me-000000"></a>
 
-- **Contact:** <a href="www.linkedin.com/in/aliharit"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin%20Ali%20Harit-2d64bc"></a>
+- **Contact:** <a href="https://www.linkedin.com/in/aliharit"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin%20Ali%20Harit-2d64bc"></a>
 
 
 ##  Skills
