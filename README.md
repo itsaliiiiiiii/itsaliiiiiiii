@@ -14,10 +14,9 @@ I'm Ali Harit, a second-year Computer Engineering student at the National School
   - ENSA Khouribga, Integrated Preparatory Years (2020-2023)
   - ENSA Khouribga, Engineering Cycle in Computer Engineering (2023-2026)
 
-- **Portfolio:** <a href="https://itsali.me/Portfolio"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20-%20itsali.me-000000"></a>
+- **Portfolio:** <a href="https://itsali.me/Portfolio"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20itsali.me-000000"></a>
 
-- **Contact:**
-  - [LinkedIn](https://www.linkedin.com/in/aliharit)
+- **Contact:** <a href="www.linkedin.com/in/aliharit"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin%20Ali%20Harit-2d64bc"></a>
 
 
 ##  Skills
