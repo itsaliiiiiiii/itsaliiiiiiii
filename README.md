@@ -1,4 +1,4 @@
-<img src="aliharit.jpeg" alt="Ali Harit" style="width:200px;height:auto;border-radius:50%;">
+<img src="aliharit.jpeg" alt="Ali Harit" style="width:200px;height:auto;border-radius:100px;">
 
 # Salaam Alaykoom. Welcome to Ali Harit's GitHub Profile
 
