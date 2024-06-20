@@ -1,3 +1,5 @@
+<img src="aliharit.jpeg" alt="Ali Harit" style="width:200px;height:auto;border-radius:50%;">
+
 # Salaam Alaykoom. Welcome to Ali Harit's GitHub Profile
 
 I'm Ali Harit, a second-year Software Engineering student at the National School of Applied Sciences of Khouribga (ENSA). I'm passionate about computer science and have acquired solid programming skills through my studies and personal projects. I'm also experienced in web development and familiar with various programming languages and tools.
