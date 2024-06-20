@@ -6,10 +6,6 @@ I'm Ali Harit, a second-year Computer Engineering student at the National School
 
 ##  About Me
 - **Name:** Ali Harit
-- **Education:**
-  - Lycée Bir Anzaran, Physics and Chemistry Baccalaureate (2017-2020)
-  - ENSA Khouribga, Integrated Preparatory Years (2020-2023)
-  - ENSA Khouribga, Engineering Cycle in Computer Engineering (2023-2026)
 
 - **Portfolio:** <a href="https://itsali.me/Portfolio"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20itsali.me-000000"></a>
 
