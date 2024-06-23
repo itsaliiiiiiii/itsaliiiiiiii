@@ -12,8 +12,8 @@ I'm Ali Harit, a second-year Software Engineering student at the National School
 ##  Skills
 
 ### Programming Languages
-- Python
 - Java SE
+- Python
 - C/C++
 - HTML, CSS, JavaScript
 - PHP
