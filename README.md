@@ -1,6 +1,6 @@
 <img src="aliharit.jpeg" alt="Ali Harit" style="width:200px;height:auto;border-radius:50%;">
 
-# Salaam Alaykoom. Welcome to Ali Harit's GitHub Profile
+# ASalaam Alaykoom. Welcome to Ali Harit's GitHub Profile
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20Pure%20Art;Always%20learning%20new%20things&font=Fira%2520Code&center=true&width=440&height=45&color=f1f1f1&vCenter=true&size=22"></a>
