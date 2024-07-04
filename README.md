@@ -29,6 +29,8 @@ I'm Ali Harit, a second-year Software Engineering student at the National School
 - Laravel
 - JavaFX
 - React JS
+- Node JS
+- SCSS
 - JQuery
 - Bootstrap
 - Tailwind CSS
