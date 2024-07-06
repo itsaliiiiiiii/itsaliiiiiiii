@@ -3,7 +3,7 @@
 # ASalaam Alaykoom. Welcome to Ali Harit's GitHub Profile
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20Pure%20Art;Always%20learning%20new%20things&font=Fira%2520Code&center=true&width=440&height=45&color=f1f1f1&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Code%20is%20Pure%20Art;Always%20learning%20new%20things;itsali.me/Portfolio&font=Fira%2520Code&center=true&width=440&height=45&color=f1f1f1&vCenter=true&size=22"></a>
 </p> 
 
 I'm Ali Harit, a second-year Software Engineering student at the National School of Applied Sciences of Khouribga (ENSA). I'm passionate about computer science and have acquired solid programming skills through my studies and personal projects. I'm also experienced in web development and familiar with various programming languages and tools.
