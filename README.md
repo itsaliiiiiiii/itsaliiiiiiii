@@ -21,7 +21,7 @@ I'm Ali Harit, a second-year Software Engineering student at the National School
 - HTML, CSS, JavaScript
 - PHP
 
-### Web Development
+### Databases
 - MySQL
 - MongoDB
 
