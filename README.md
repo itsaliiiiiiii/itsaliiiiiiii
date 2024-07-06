@@ -30,6 +30,7 @@ I'm Ali Harit, a second-year Software Engineering student at the National School
 - JavaFX
 - React JS
 - Node JS
+- Express JS
 - SCSS
 - JQuery
 - Bootstrap
