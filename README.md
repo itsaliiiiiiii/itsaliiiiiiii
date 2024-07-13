@@ -30,8 +30,10 @@ I'm Ali Harit, a second-year Software Engineering student at the National School
 - JavaFX
 - React JS
 - Node JS
+- Next JS
+- Electron JS
 - Express JS
-- SCSS
+- SASS
 - JQuery
 - Bootstrap
 - Tailwind CSS
