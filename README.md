@@ -1,5 +1,3 @@
-<img src="aliharit.jpeg" alt="Ali Harit" style="width:200px;height:auto;border-radius:50%;">
-
 # ASalaam Alaykoom. Welcome to Ali Harit's GitHub Profile
 
 <p align="center">
