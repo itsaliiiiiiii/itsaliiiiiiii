@@ -37,4 +37,4 @@ I'm Ali Harit, a second-year Software Engineering student at the National School
 - Tailwind CSS
 - GSAP
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaliiiiiiiii&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaliiiiiiii&layout=compact&theme=dark&hide_border=true)
