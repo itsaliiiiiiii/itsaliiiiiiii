@@ -10,6 +10,7 @@
    <a href="https://itsali.me/Portfolio"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20itsali.me-ffffff"></a> <a href="https://www.linkedin.com/in/aliharit"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin%20Ali%20Harit-2d64bc"></a>
 </div>
 
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
