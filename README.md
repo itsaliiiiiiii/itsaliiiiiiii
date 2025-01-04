@@ -80,7 +80,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaliiiiiiii&layout=compact&theme=dark&hide_border=true)
+###
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaliiiiiiii&layout=compact&theme=dark&hide_border=true)
+</div>
 
