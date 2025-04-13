@@ -86,15 +86,4 @@
 </div>
 
 
-###
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaliiiiiiii&layout=compact&theme=dark&hide_border=true)
-  
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/itsaliiiiiiii/count.svg?"  />
-</div>
